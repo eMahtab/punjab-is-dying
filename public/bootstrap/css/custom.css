@@ -1,0 +1,38 @@
+body {           
+          background: #70e1f5; /* For browsers that do not support gradients */      
+          /*background: linear-gradient(to right,#7E0F4B, #1A5865); */
+         /* background: linear-gradient(to right,#FF5F6D, #FFC371); */
+             background: linear-gradient(to left,#70e1f5,#ffd194); 
+            /*  background: linear-gradient(to right,#c2e59c,#64b3f4);*/
+            /* background: linear-gradient(to right,#00C9FF,#92FE9D);*/
+          /*  background: linear-gradient(to right,#000000, #434343); */
+        }
+
+.navbar-custom {
+    background-color:#000000 !important;   
+   /* border-radius:1;*/
+}
+
+.navbar-custom .navbar-nav > li > a {
+    color:#ffd194;
+}
+
+.navbar-custom .navbar-brand  {
+    color:#ffd194;
+}
+
+a:hover{
+    
+    text-decoration: none !important;
+    color: #ffeb3b !important;
+}
+
+a:focus{
+     color:#ffd194 !important;
+     text-decoration: none !important;
+}
+
+a:active{
+     color:#ffd194 !important;    
+}
+
